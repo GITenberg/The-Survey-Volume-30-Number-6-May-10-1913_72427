@@ -1,5 +1,8 @@
 _repo: The-Survey-Volume-30-Number-6-May-10-1913_72427
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72427-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42331
     wikipedia: https://en.wikipedia.org/wiki/Paul_Underwood_Kellogg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72427#The-Survey-Volume-30-Number-6-May-10-1913
 gutenberg_issued: '2023-12-16'
 gutenberg_type: Text
 identifiers:
